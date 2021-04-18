@@ -1,6 +1,6 @@
 {
   "name": "fg-204",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Future gadget 204",
   "main": "index.js",
   "scripts": {
